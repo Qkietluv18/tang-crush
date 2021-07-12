@@ -29,4 +29,5 @@ const CONFIG = {
     mess: 'ỏ ỏ ỏ  🥰. Yêu nhiều nhiều 😘😘',
     messDesc: 'giờ thì nhắn tin nhá <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/chauquockiet1811 .'
+    messLink: 'https://m.me/chauquockiet1811
+}
