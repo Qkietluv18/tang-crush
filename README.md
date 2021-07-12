@@ -27,7 +27,7 @@ const CONFIG = {
     btnReply: 'Gửi iu thw <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'ỏ ỏ ỏ  🥰. Yêu nhiều nhiều 😘😘',
-    messDesc: 'giờ thì nhắn tin nhá thư <3.',
+    messDesc: 'giờ thì nhắn tin nhá <3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/chauquockiet1811
 }
